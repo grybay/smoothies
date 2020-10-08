@@ -1,0 +1,73 @@
+body html {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f4edea;
+    width: 100%;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom;
+    0;
+
+}
+
+h2 {
+    font-family: helvetica neue;
+    font-weight: 300;
+    font-size: 4rem;
+    margin: 0;
+    margin-top: 0;
+    margin-bottom;
+    0;
+    color: #3c3d64;
+    text-transform: uppercase;
+    letter-spacing: 10px
+}
+
+.h2intro {
+    margin: 30px;
+}
+
+.container {
+    width: 100%;
+}
+
+.backgroundimg {
+    background-image: url(img/background01.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.mockup .img-fluid {
+    max-width: 80%;
+    height: auto;
+}
+
+#presentation {
+    background-color: #f4edea;
+    max-width: 50%;
+    height: auto;
+    background-position: center center;
+}
+
+#video {
+    background-color: #f4edea;
+}
+
+.afslutning {
+    background-color: #f4edea;
+}
+
+#carousel-example-generic {
+
+    background-position: center center;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+    background-image: none;
+    filter: none;
